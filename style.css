@@ -1,7 +1,9 @@
 body { 
     background-color: blanchedalmond;
+    border-radius: 5px;
     border-color: black;
     border-style: solid;
+    border-width: 1px;
 }
 
 img {
@@ -19,7 +21,7 @@ h1 {
     text-align: center;
     font-style: italic;
     font-size: 38px;
-    color: rgb(43, 99, 255);
+    color: blue;
 }
 
 h3 {
